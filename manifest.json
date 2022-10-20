@@ -1,0 +1,21 @@
+{
+  "key": "flow-widget",
+  "name": "Flowchart",
+  "version": "0.0.1",
+  "description": "Flowchart for different processes",
+  "author": "Sebastian Argandoña <sebastian.argandona.hire@gmail.com>",
+  "homeUrl": "https://github.com/mariyadavydova/youtrack-cats-widget",
+  "iconUrl": "img/test.png",
+  "dependencies": {
+    "Hub": ">=2018.2"
+  },
+  "products": {
+    "Hub": "^2018.2",
+    "YouTrack": "^2018.2"
+  },
+  "view": {
+    "fadeOut": false,
+    "defaultWidth": 1,
+    "defaultHeight": 1
+  }
+}
